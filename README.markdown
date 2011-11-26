@@ -11,7 +11,7 @@ Looked at the [closed issues (aka questions)](https://github.com/sethvargo/feedb
 
 You Closed my Issue!... Dick
 ---------------------------
-I have OCD. I can't stand to have open issues on projects. It's drives me insane if the number next to issues > 0. For that reason, you can also rest assured that I *will* respond in a timely manner
+I have OCD. I can't stand to have open issues on projects. It's drives me insane if the number next to issues > 0. For that reason, you can also rest assured that I *will* respond in a timely manner...
 
 I have a Programming Question
 -----------------------------
